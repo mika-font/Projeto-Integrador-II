@@ -124,8 +124,13 @@ Projeto-Integrador-II/
 ├── code-esp32/
 ├── impressoes/
 │   ├── porta_mdf/
-│   ├── case_interno/
-│   └── case_externo/
+│   └── caixas/
+├── labflow-ct/
+    ├── backend/
+    ├── database/
+    ├── docs/
+    ├── frontend/
+    └── README.md
 └── docs/
 ```
 
