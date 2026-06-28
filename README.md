@@ -126,11 +126,11 @@ Projeto-Integrador-II/
 │   ├── porta_mdf/
 │   └── caixas/
 ├── labflow-ct/
-    ├── backend/
-    ├── database/
-    ├── docs/
-    ├── frontend/
-    └── README.md
+│   ├── backend/
+│   ├── database/
+│   ├── docs/
+│   ├── frontend/
+│   └── README.md
 └── docs/
 ```
 
